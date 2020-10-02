@@ -17,3 +17,5 @@ This repository will cover Android related stuffs.
 
 [Kdoc-Generator](https://plugins.jetbrains.com/plugin/10389-kdoc-generator/) Generate class and method docs
 
+# Reference to reference of Android resource 
+[ultimate Android reference](https://github.com/aritraroy/UltimateAndroidReference)
